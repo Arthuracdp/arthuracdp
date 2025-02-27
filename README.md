@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, MySQL.**
 
-- 📫 How to reach me **artur.azevedo@live.com**
+- 📫 How to reach me **arthur.unicap@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
